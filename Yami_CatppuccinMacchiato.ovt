@@ -1,0 +1,149 @@
+@OBSThemeMeta {
+    name: 'Catppuccin Macchiato';
+    id: 'com.obsproject.Yami.CatppuccinMacchiato';
+    extends: 'com.obsproject.Yami';
+    author: 'Sakyuu';
+    dark: 'true';
+}
+
+@OBSThemeVars {
+    /* Catppuccin Macchiato palette */
+    --grey1: #6E738D;
+    --grey2: #5B6078;
+    --grey3: #494D64;
+    --grey4: #363A4F;
+    --grey5: #1E2030;
+    --grey6: #181926;
+    --grey7: #24273A;
+    --grey8: #24273A;
+
+    --white1: #CAD3F5;
+    --white2: #CAD3F5;
+    --white3: #B8C0E0;
+    --white4: #A5ADCB;
+    --white5: #8087A2;
+
+    --black1: #24273A;
+    --black2: #1E2030;
+    --black3: #181926;
+    --black4: #363A4F;
+    --black5: #494D64;
+
+    --blue1: #8AADF4;
+    --blue2: #8AADF4;
+    --blue3: #7AA2F7;
+    --blue4: #8AADF4;
+    --blue5: #8AADF4;
+    --blue6: #8AADF4;
+
+    --red1: #ED8796;
+    --red2: #ED8796;
+    --red3: #ED8796;
+    --red4: #ED8796;
+    --red5: #ED8796;
+    --red6: #ED8796;
+
+    --pink1: #F5BDE6;
+    --pink2: #F5BDE6;
+    --pink3: #F5BDE6;
+    --pink4: #F5BDE6;
+    --pink5: #F5BDE6;
+    --pink6: #F5BDE6;
+
+    --teal1: #8BD5CA;
+    --teal2: #8BD5CA;
+    --teal3: #8BD5CA;
+    --teal4: #8BD5CA;
+    --teal5: #8BD5CA;
+    --teal6: #8BD5CA;
+
+    --purple1: #C6A0F6;
+    --purple2: #C6A0F6;
+    --purple3: #C6A0F6;
+    --purple4: #C6A0F6;
+    --purple5: #C6A0F6;
+    --purple6: #C6A0F6;
+
+    --green1: #A6DA95;
+    --green2: #A6DA95;
+    --green3: #A6DA95;
+    --green4: #A6DA95;
+    --green5: #A6DA95;
+    --green6: #A6DA95;
+
+    --yellow1: #EED49F;
+    --yellow2: #EED49F;
+    --yellow3: #EED49F;
+    --yellow4: #EED49F;
+    --yellow5: #EED49F;
+    --yellow6: #EED49F;
+
+    /* Base theme */
+    --bg_window: #24273A;
+    --bg_base: #1E2030;
+    --bg_preview: #181926;
+
+    --primary: #8AADF4;
+    --primary_light: #B7C9F5;
+    --primary_lighter: #CAD3F5;
+    --primary_dark: #6E8DCE;
+    --primary_darker: #5B6078;
+
+    --warning: #EED49F;
+    --danger: #ED8796;
+
+    --text: #CAD3F5;
+    --text_light: #CAD3F5;
+    --text_muted: #A5ADCB;
+    --text_disabled: #6E738D;
+    --text_inactive: #8AADF4;
+
+    /* Inputs / controls */
+    --border_color: #494D64;
+
+    --input_bg: #363A4F;
+    --input_bg_hover: #494D64;
+    --input_bg_focus: #494D64;
+
+    --list_item_bg_selected: #494D64;
+    --list_item_bg_hover: #363A4F;
+
+    --input_border: #494D64;
+    --input_border_hover: #5B6078;
+    --input_border_focus: #8AADF4;
+
+    --button_bg: #363A4F;
+    --button_bg_hover: #494D64;
+    --button_bg_down: #5B6078;
+    --button_bg_disabled: #1E2030;
+
+    --button_bg_red: #ED8796;
+    --button_bg_red_hover: #F09AA6;
+    --button_bg_red_down: #D56F7D;
+
+    --button_border: #494D64;
+    --button_border_hover: #5B6078;
+    --button_border_focus: #8AADF4;
+
+    --tab_bg: #363A4F;
+    --tab_bg_hover: #494D64;
+    --tab_bg_down: #5B6078;
+    --tab_bg_disabled: #1E2030;
+
+    --tab_border: #494D64;
+    --tab_border_hover: #5B6078;
+    --tab_border_focus: #8AADF4;
+    --tab_border_selected: #8AADF4;
+
+    --scrollbar_handle: #5B6078;
+    --scrollbar_hover: #6E738D;
+    --scrollbar_down: #8AADF4;
+    --scrollbar_border: #494D64;
+
+    --toolbutton_bg: #363A4F;
+    --toolbutton_bg_hover: #494D64;
+    --toolbutton_bg_down: #5B6078;
+    --toolbutton_bg_disabled: #1E2030;
+
+    --highlight_color: #8AADF4;
+}
