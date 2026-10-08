@@ -45,7 +45,7 @@ That's it. Your OBS Studio interface should now use the Catppuccin Macchiato ins
 
 ## Preview
 
-![OBS Studio Catppuccin Macchiato Theme](Preview.png)
+![OBS Studio Catppuccin Macchiato Theme](preview.png)
 
 > The preview is intended to showcase the theme using the **Catppuccin Macchiato** color palette.
 
